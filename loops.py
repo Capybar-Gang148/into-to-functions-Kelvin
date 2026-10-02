@@ -52,5 +52,5 @@ def addStars (iRange):
         star(length, 144)
         length += 5
         t.right(5)
-addStars(1500)
+addStars(70)
 turtle.done()
